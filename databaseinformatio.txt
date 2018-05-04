@@ -1,0 +1,16 @@
+
+foodapp-holi
+
+<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCduGMoH6UWXbBmqc2_bsnmfuRCb4nXgr4",
+    authDomain: "foodapp-holi.firebaseapp.com",
+    databaseURL: "https://foodapp-holi.firebaseio.com",
+    foodapp-holi: "foodapp-holi",
+    storageBucket: "foodapp-holi.appspot.com",
+    messagingSenderId: "126463720186"
+  };
+  firebase.initializeApp(config);
+</script>
